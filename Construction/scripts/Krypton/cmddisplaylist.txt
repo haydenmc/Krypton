@@ -1,0 +1,37 @@
+This is the command display list
+format for this goes like so: CMD identifier display name
+any lines that does not start with a reserved word such as CMD is ignored.
+
+CMD BF Buy Favorites
+CMD PC Piece Count
+CMD HV Toggle Hover Mode
+CMD RO
+CMD KASS Krypton Advanced Save System
+CMD KLIST Krypton Player List
+CMD PREFS Krypton Player Preferences
+CMD RO
+CMD DISCON Delete My Pieces
+CMD RO
+CMD RO ------- Help -------
+
+CMD CH Armor Commands
+
+CMDHELP ch /togglegender   --   Toggles the player's gender.
+CMDHELP ch /togglerace   --   Toggles the player's race.
+CMDHELP ch /togglearmor   --   Toggles the player's armor.
+CMDHELP ch /voicepitch   --   Changes the player's voice pitch.
+
+CMD BL Deployable Commands
+
+CMDHELP BL /setsize <X> <Y> <Z>   --   Scales the object to X, Y, and Z parameters.
+CMDHELP BL /getsize   --   Tells you the object's X, Y, and Z scaling parameters.
+CMDHELP BL /objectname <name>   --   Sets the name of an object.
+CMDHELP BL /giveto -- Gives all current pieces to defined player.
+
+CMD WC Theorem Commands
+
+CMDHELP WC Theorem, get weather <zipcode>  --  Theorem will give you the current weather for this zip code.
+CMDHELP WC Theorem, define <word>  --  Theorem will give you the definition for this word.
+CMDHELP WC Theorem, talk/chat.  --  Initiate a conversation with Theorem.
+CMDHELP WC Theorem, stop talking.  --  Stop a conversation with Theorem.
+CMDHELP WC What time is it?.  --  Theorem will give you the current time.

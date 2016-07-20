@@ -1,0 +1,1 @@
+This is where player save files go. Organized by GUID.

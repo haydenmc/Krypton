@@ -1,0 +1,2 @@
+*.dso
+!Construction/scripts/do_not_delete/MergeToolSupport.cs.dso

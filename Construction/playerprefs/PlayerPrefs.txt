@@ -1,0 +1,1 @@
+This is where krypton player preferences are stored, by GUID.

@@ -1,0 +1,1 @@
+This is where temporary undo files for players are stored. Organized by GUID.
